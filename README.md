@@ -1,20 +1,61 @@
-# Hi 👋 I'm Kamil Makwana
+# 👋 Hi, I'm Kamil Makwana
 
-Founder of Averonix Labs.
+### Founder & Software Architect @ Averonix Labs
 
-I build enterprise-grade software solutions including:
+Building AI-powered business software, enterprise applications, and automation systems that help companies scale faster and operate smarter.
 
-🚀 Warehouse Management Systems (WMS)
+🌐 Website: https://averonixlabs.in
 
-🚀 CRM & ERP Solutions
+---
 
-🚀 AI Automation Systems
+## 🚀 About Me
 
-🚀 Custom Web & Mobile Applications
+I specialize in designing and developing scalable software solutions for startups, enterprises, logistics companies, manufacturers, and growing businesses.
 
-🚀 Shopify & E-commerce Solutions
+My focus areas include:
 
-## Tech Stack
+* 🤖 AI Automation & AI Agents
+* 🏭 Warehouse Management Systems (WMS)
+* 📊 CRM & ERP Development
+* ⚡ Business Process Automation
+* 🌐 Custom Web Applications
+* 📱 Mobile Application Development
+* 🛒 Shopify & E-Commerce Solutions
+* ☁️ SaaS Product Development
+
+---
+
+## 💼 What I Build
+
+### AI Solutions
+
+* AI Voice Agents
+* AI Calling Systems
+* Customer Support Automation
+* Lead Qualification Systems
+* Workflow Automation
+* OpenAI Integrations
+
+### Enterprise Software
+
+* Warehouse Management Systems
+* Inventory Management Platforms
+* CRM Solutions
+* ERP Systems
+* Logistics Software
+* Manufacturing Solutions
+
+### Web & Mobile Applications
+
+* Custom Business Portals
+* SaaS Platforms
+* E-Commerce Applications
+* Android Applications
+* Cross-Platform Solutions
+
+---
+
+## 🛠️ Technology Stack
 
 ### Backend
 
@@ -22,40 +63,87 @@ I build enterprise-grade software solutions including:
 * .NET Core
 * C#
 * SQL Server
+* REST APIs
 
 ### Frontend
 
-* Angular
 * React
+* Angular
 * JavaScript
+* TypeScript
 * Tailwind CSS
 
 ### AI & Automation
 
 * OpenAI
 * VAPI
-* Voice AI Agents
-* Workflow Automation
+* AI Voice Agents
+* Business Automation
+* Workflow Orchestration
 
-## Featured Projects
+### Tools & Platforms
 
-### Averonix Labs
+* GitHub
+* Azure
+* IIS
+* Docker
+* Postman
 
-Business automation and software engineering company.
+---
 
-Website:
-https://averonixlabs.in
+## 🎯 Industries I Work With
 
-### AI Calling Agent
+* Logistics & Warehousing
+* Manufacturing
+* Retail & E-Commerce
+* Healthcare
+* Real Estate
+* Financial Services
+* Service Businesses
+* Startups & SaaS Companies
 
-Voice AI sales and support automation platform.
+---
 
-### Trading Automation Bridge
+## 📌 Featured Focus Areas
 
-TradingView to Broker execution engine with risk management.
+### 🤖 AI Automation
 
-## Connect With Me
+Building intelligent systems that automate sales, support, lead qualification, and business operations.
 
-LinkedIn: https://linkedin.com
+### 🏭 Warehouse Management Systems
 
-Website: https://averonixlabs.in
+Developing enterprise-grade WMS solutions for inventory tracking, barcode management, dispatch planning, and warehouse optimization.
+
+### 📈 CRM & ERP Systems
+
+Creating custom CRM and ERP platforms tailored to unique business workflows and operational requirements.
+
+### ⚡ Business Process Automation
+
+Helping organizations eliminate repetitive work through automation and AI-powered workflows.
+
+---
+
+## 🌟 Current Goals
+
+* Building innovative AI solutions for businesses
+* Expanding Averonix Labs globally
+* Creating enterprise SaaS products
+* Delivering scalable software architecture
+* Helping businesses automate operations with AI
+
+---
+
+## 🤝 Let's Connect
+
+🌐 Website: https://averonixlabs.in
+
+💼 LinkedIn: https://linkedin.com/in/kamil-makwana-a483b1158
+
+📧 Email: [services@averonixlabs.in](mailto:services@averonixlabs.in)
+
+---
+
+### Building Smart Systems. Enabling Scalable Growth.
+
+**Averonix Labs** — AI, Automation, Enterprise Software & Digital Transformation.
