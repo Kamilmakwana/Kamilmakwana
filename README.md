@@ -1,67 +1,86 @@
-# 👋 Hi, I'm Kamil Makwana
+<h1 align="center">Hi 👋, I'm Kamil Makwana</h1>
 
-### Full Stack Software Engineer | .NET Developer | React & Next.js Developer | AI Automation Enthusiast
+<h3 align="center">
+Full Stack Software Engineer • .NET Developer • React & Next.js Developer • AI Engineer • Open Source Developer
+</h3>
 
-I build scalable web applications, enterprise software, AI-powered automation solutions, and modern developer tools using Microsoft's technology stack and modern JavaScript frameworks.
-
----
-
-# 🚀 About Me
-
-I'm a passionate Full Stack Software Engineer with experience building enterprise-grade applications, developer tools, SaaS products, and business automation solutions.
-
-I enjoy solving complex engineering problems and creating software that is scalable, maintainable, and user-friendly.
-
-## Areas of Expertise
-
-- 🤖 AI Automation & AI Integrations
-- 💻 Full Stack Web Development
-- ⚙️ Enterprise Software Development
-- ☁️ SaaS Application Development
-- 🏭 Warehouse Management Systems (WMS)
-- 📊 CRM & ERP Solutions
-- 📱 Cross-Platform Applications
-- 🚀 Developer Tools & Open Source Projects
+<p align="center">
+Building scalable software, AI-powered applications, enterprise solutions, and developer tools.
+</p>
 
 ---
 
-# 💼 What I Build
+# 👨‍💻 About Me
 
-### AI & Automation
+I'm **Kamil Makwana**, a Full Stack Software Engineer from India with expertise in building enterprise applications, AI-powered software, SaaS platforms, developer tools, and modern web applications.
+
+I specialize in Microsoft technologies, JavaScript frameworks, cloud-based applications, and AI integrations.
+
+## Core Expertise
+
+- Full Stack Software Development
+- ASP.NET Core & ASP.NET MVC
+- C# Development
+- SQL Server Database Design
+- React.js
+- Next.js
+- Angular
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- REST API Development
+- AI Automation
+- OpenAI
+- Claude AI
+- Google Gemini
+- GitHub API
+- GitHub Automation
+- Software Architecture
+- System Design
+- SaaS Development
+- Enterprise Software
+- Warehouse Management Systems (WMS)
+- CRM Development
+- ERP Solutions
+
+---
+
+# 🚀 What I Build
+
+## AI Applications
 
 - AI Agents
-- AI Voice Automation
-- Workflow Automation
 - OpenAI Integrations
 - Claude AI Integrations
 - Google Gemini Integrations
-- Prompt Engineering
-- AI-Powered Business Solutions
-- Business Process Automation
+- AI Voice Assistants
+- Workflow Automation
+- AI Business Automation
 
-### Enterprise Applications
+## Enterprise Software
 
 - Warehouse Management Systems
-- Inventory Management Systems
+- Inventory Management Software
 - CRM Software
-- ERP Solutions
+- ERP Systems
 - Logistics Platforms
-- Manufacturing Software
+- Manufacturing Solutions
 
-### Web Applications
+## Modern Web Applications
 
-- SaaS Products
-- Admin Dashboards
+- SaaS Platforms
 - Business Portals
+- Admin Dashboards
+- E-Commerce Solutions
 - REST APIs
-- Internal Business Tools
+- Internal Enterprise Applications
 
-### Developer Tools
+## Open Source
 
-- GitHub Automation
-- Open Source Utilities
-- Productivity Tools
-- Developer Platforms
+- GitForkSync
+- GitHub Automation Tools
+- Developer Utilities
+- Productivity Applications
 
 ---
 
@@ -71,8 +90,8 @@ I enjoy solving complex engineering problems and creating software that is scala
 
 - ASP.NET Core
 - ASP.NET MVC
-- C#
 - .NET
+- C#
 - SQL Server
 - Entity Framework
 - REST APIs
@@ -88,92 +107,80 @@ I enjoy solving complex engineering problems and creating software that is scala
 - HTML5
 - CSS3
 
-## Database
+## AI & LLMs
 
-- SQL Server
-- PostgreSQL
-- MySQL
+- OpenAI GPT
+- Claude AI
+- Google Gemini
+- Prompt Engineering
+- AI Agents
+- AI Automation
+- Workflow Orchestration
 
 ## DevOps & Cloud
 
 - Git
 - GitHub
-- Docker
 - Azure
+- Docker
 - IIS
 - CI/CD
 
-## AI & LLMs
-
-- OpenAI (GPT)
-- Claude AI
-- Google Gemini
-- AI Agents
-- AI Automation
-- Prompt Engineering
-- Workflow Orchestration
-- AI API Integrations
-
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Project
 
-### GitForkSync
+## GitForkSync
 
-A modern GitHub utility that helps developers synchronize all their forked repositories with upstream repositories in a single workflow.
+GitForkSync is a modern GitHub developer tool that helps synchronize forked repositories with their upstream repositories using a fast, intuitive interface.
 
-**Tech Stack**
+### Technologies
 
 - Next.js
 - TypeScript
 - Tailwind CSS
 - GitHub API
+- Vercel
 
 ---
 
-# 🎯 Interests
+# 📈 Currently Working On
 
-- Artificial Intelligence
-- Software Architecture
-- System Design
+- AI Automation Systems
+- GitForkSync
+- Next.js Applications
 - Enterprise Software
-- SaaS Products
-- Cloud Computing
-- Open Source
-- Developer Experience (DX)
+- Open Source Projects
+- AI Developer Tools
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Learning
 
-- Advanced System Design
 - AI Agent Architecture
-- Cloud Native Applications
 - Distributed Systems
+- Cloud Native Applications
 - Performance Optimization
-
----
-
-# 📈 GitHub Stats
-
-- Building open-source tools
-- Creating developer utilities
-- Exploring AI-powered applications
-- Learning new technologies every day
+- Advanced System Design
 
 ---
 
 # 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/kamil-makwana-a483b1158
-- 📧 Email: kamilmakwana26@gmail.com
+📧 Email: **kamilmakwana26@gmail.com**
+
+💼 LinkedIn:
+https://linkedin.com/in/kamil-makwana-a483b1158
+
+🐙 GitHub:
+https://github.com/Kamilmakwana
 
 ---
 
-## 💡 Favorite Quote
+# 📌 Keywords
 
-> "First solve the problem. Then write the code."
+Kamil Makwana, Kamil Makwana GitHub, Kamil Makwana Developer, Full Stack Developer, Software Engineer, .NET Developer, ASP.NET Core Developer, C# Developer, React Developer, Next.js Developer, Angular Developer, SQL Server Developer, AI Engineer, OpenAI Developer, Claude AI Developer, Gemini AI Developer, GitHub API Developer, Enterprise Software Developer, SaaS Developer, Warehouse Management System Developer, CRM Developer, ERP Developer, Web Application Developer, AI Automation Engineer, India.
 
 ---
 
-⭐ If you like my projects, consider giving them a ⭐!
+> *"First solve the problem. Then write the code."*
