@@ -133,10 +133,6 @@ Built using **Next.js**, it provides a clean, responsive interface for developer
 
 👉 **https://www.gitforksync.com/**
 
-### 💻 Source Code
-
-👉 **https://github.com/Kamilmakwana/GitForkSync**
-
 ### Features
 
 - 🚀 Sync GitHub forks
