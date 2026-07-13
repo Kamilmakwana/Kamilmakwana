@@ -1,149 +1,179 @@
 # 👋 Hi, I'm Kamil Makwana
 
-### Founder & Software Architect @ Averonix Labs
+### Full Stack Software Engineer | .NET Developer | React & Next.js Developer | AI Automation Enthusiast
 
-Building AI-powered business software, enterprise applications, and automation systems that help companies scale faster and operate smarter.
-
-🌐 Website: https://averonixlabs.in
+I build scalable web applications, enterprise software, AI-powered automation solutions, and modern developer tools using Microsoft's technology stack and modern JavaScript frameworks.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I specialize in designing and developing scalable software solutions for startups, enterprises, logistics companies, manufacturers, and growing businesses.
+I'm a passionate Full Stack Software Engineer with experience building enterprise-grade applications, developer tools, SaaS products, and business automation solutions.
 
-My focus areas include:
+I enjoy solving complex engineering problems and creating software that is scalable, maintainable, and user-friendly.
 
-* 🤖 AI Automation & AI Agents
-* 🏭 Warehouse Management Systems (WMS)
-* 📊 CRM & ERP Development
-* ⚡ Business Process Automation
-* 🌐 Custom Web Applications
-* 📱 Mobile Application Development
-* 🛒 Shopify & E-Commerce Solutions
-* ☁️ SaaS Product Development
+## Areas of Expertise
 
----
-
-## 💼 What I Build
-
-### AI Solutions
-
-* AI Voice Agents
-* AI Calling Systems
-* Customer Support Automation
-* Lead Qualification Systems
-* Workflow Automation
-* OpenAI Integrations
-
-### Enterprise Software
-
-* Warehouse Management Systems
-* Inventory Management Platforms
-* CRM Solutions
-* ERP Systems
-* Logistics Software
-* Manufacturing Solutions
-
-### Web & Mobile Applications
-
-* Custom Business Portals
-* SaaS Platforms
-* E-Commerce Applications
-* Android Applications
-* Cross-Platform Solutions
+- 🤖 AI Automation & AI Integrations
+- 💻 Full Stack Web Development
+- ⚙️ Enterprise Software Development
+- ☁️ SaaS Application Development
+- 🏭 Warehouse Management Systems (WMS)
+- 📊 CRM & ERP Solutions
+- 📱 Cross-Platform Applications
+- 🚀 Developer Tools & Open Source Projects
 
 ---
 
-## 🛠️ Technology Stack
-
-### Backend
-
-* ASP.NET MVC
-* .NET Core
-* C#
-* SQL Server
-* REST APIs
-
-### Frontend
-
-* React
-* Angular
-* JavaScript
-* TypeScript
-* Tailwind CSS
+# 💼 What I Build
 
 ### AI & Automation
 
-* OpenAI
-* VAPI
-* AI Voice Agents
-* Business Automation
-* Workflow Orchestration
+- AI Agents
+- AI Voice Automation
+- Workflow Automation
+- OpenAI Integrations
+- Claude AI Integrations
+- Google Gemini Integrations
+- Prompt Engineering
+- AI-Powered Business Solutions
+- Business Process Automation
 
-### Tools & Platforms
+### Enterprise Applications
 
-* GitHub
-* Azure
-* IIS
-* Docker
-* Postman
+- Warehouse Management Systems
+- Inventory Management Systems
+- CRM Software
+- ERP Solutions
+- Logistics Platforms
+- Manufacturing Software
 
----
+### Web Applications
 
-## 🎯 Industries I Work With
+- SaaS Products
+- Admin Dashboards
+- Business Portals
+- REST APIs
+- Internal Business Tools
 
-* Logistics & Warehousing
-* Manufacturing
-* Retail & E-Commerce
-* Healthcare
-* Real Estate
-* Financial Services
-* Service Businesses
-* Startups & SaaS Companies
+### Developer Tools
 
----
-
-## 📌 Featured Focus Areas
-
-### 🤖 AI Automation
-
-Building intelligent systems that automate sales, support, lead qualification, and business operations.
-
-### 🏭 Warehouse Management Systems
-
-Developing enterprise-grade WMS solutions for inventory tracking, barcode management, dispatch planning, and warehouse optimization.
-
-### 📈 CRM & ERP Systems
-
-Creating custom CRM and ERP platforms tailored to unique business workflows and operational requirements.
-
-### ⚡ Business Process Automation
-
-Helping organizations eliminate repetitive work through automation and AI-powered workflows.
+- GitHub Automation
+- Open Source Utilities
+- Productivity Tools
+- Developer Platforms
 
 ---
 
-## 🌟 Current Goals
+# 🛠 Tech Stack
 
-* Building innovative AI solutions for businesses
-* Expanding Averonix Labs globally
-* Creating enterprise SaaS products
-* Delivering scalable software architecture
-* Helping businesses automate operations with AI
+## Backend
+
+- ASP.NET Core
+- ASP.NET MVC
+- C#
+- .NET
+- SQL Server
+- Entity Framework
+- REST APIs
+
+## Frontend
+
+- React
+- Next.js
+- Angular
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+
+## Database
+
+- SQL Server
+- PostgreSQL
+- MySQL
+
+## DevOps & Cloud
+
+- Git
+- GitHub
+- Docker
+- Azure
+- IIS
+- CI/CD
+
+## AI & LLMs
+
+- OpenAI (GPT)
+- Claude AI
+- Google Gemini
+- AI Agents
+- AI Automation
+- Prompt Engineering
+- Workflow Orchestration
+- AI API Integrations
 
 ---
 
-## 🤝 Let's Connect
+# 🚀 Featured Projects
 
-🌐 Website: https://averonixlabs.in
+### GitForkSync
 
-💼 LinkedIn: https://linkedin.com/in/kamil-makwana-a483b1158
+A modern GitHub utility that helps developers synchronize all their forked repositories with upstream repositories in a single workflow.
 
-📧 Email: [services@averonixlabs.in](mailto:services@averonixlabs.in)
+**Tech Stack**
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- GitHub API
 
 ---
 
-### Building Smart Systems. Enabling Scalable Growth.
+# 🎯 Interests
 
-**Averonix Labs** — AI, Automation, Enterprise Software & Digital Transformation.
+- Artificial Intelligence
+- Software Architecture
+- System Design
+- Enterprise Software
+- SaaS Products
+- Cloud Computing
+- Open Source
+- Developer Experience (DX)
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced System Design
+- AI Agent Architecture
+- Cloud Native Applications
+- Distributed Systems
+- Performance Optimization
+
+---
+
+# 📈 GitHub Stats
+
+- Building open-source tools
+- Creating developer utilities
+- Exploring AI-powered applications
+- Learning new technologies every day
+
+---
+
+# 🤝 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/kamil-makwana-a483b1158
+- 📧 Email: kamilmakwana26@gmail.com
+
+---
+
+## 💡 Favorite Quote
+
+> "First solve the problem. Then write the code."
+
+---
+
+⭐ If you like my projects, consider giving them a ⭐!
